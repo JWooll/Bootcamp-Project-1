@@ -48,3 +48,6 @@ Initial data scrape and project inspiration by Timothy Renner: https://data.worl
 
 https://www.cdc.gov/nchs/hus/sources-definitions/geographic-region.htm
 
+Pivot Dataframe: https://stackoverflow.com/questions/28337117/how-to-pivot-a-dataframe-in-pandas
+
+Pandas.to_numeric function: https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html
